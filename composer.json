@@ -1,0 +1,14 @@
+{
+  "name": "drupal/ckeditor_plugins",
+  "type": "drupal-module",
+  "description": "CKEditor Plugins",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "http://drupal.org/project/ckeditor_plugins",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/ckeditor_plugins",
+    "source": "http://cgit.drupalcode.org/ckeditor_plugins"
+  },
+  "require": { }
+}

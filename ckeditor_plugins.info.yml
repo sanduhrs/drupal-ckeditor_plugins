@@ -1,0 +1,7 @@
+name: CKEditor Plugins
+type: module
+description: CKEditor Plugins
+core: 8.x
+package: Other
+dependencies:
+  - ckeditor

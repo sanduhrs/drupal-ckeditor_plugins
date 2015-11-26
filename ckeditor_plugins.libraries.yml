@@ -1,0 +1,6 @@
+autogrow:
+  js:
+    js/autogrow.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
